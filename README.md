@@ -2,9 +2,9 @@
 <h3 align="center">CSE (Data Science) | AI & ML Enthusiast | Full-Stack Developer</h3>
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Coding GIF"
-    style="max-width: 100%; width: 420px;"
+    style="width:100%; max-width:900px; height:auto;"
   />
 </p>
 ---
