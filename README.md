@@ -1,11 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Adithya Nagamuneendran
+<!-- Banner -->
+<img src="./assets/github-banner-final.gif" alt="Developer Banner" width="100%"/>
 
-### 🎓 CSE (Data Science) Student | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer
+<!-- If you prefer the static version or the GIF doesn't load, use: -->
+<!-- <img src="./assets/github-banner-optimized.png" alt="Developer Banner" width="100%"/> -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" height="300"/>
+<br/><br/>
 
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyanagamuneendran)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya1755@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhi1755)
@@ -22,6 +25,7 @@
 name: Adithya Nagamuneendran
 role: Data Science Student & Full-Stack Developer
 education: B.Tech in Computer Science Engineering (Data Science)
+location: Vellore, Tamil Nadu, India
 current_focus: 
   - Machine Learning & Deep Learning
   - Building scalable web applications
@@ -39,6 +43,8 @@ motto: "Building today what my future self will be proud of."
 - 💡 Passionate about **merging AI with real-world applications**
 - 📊 Love turning **data into actionable insights**
 - 🎯 Goal: **Contribute to impactful open-source ML projects**
+- 💬 Ask me about **Python, React, Machine Learning, or Data Science**
+- ⚡ Fun fact: **I debug with console.log and print() 😄**
 
 ---
 
@@ -79,6 +85,7 @@ motto: "Building today what my future self will be proud of."
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
@@ -89,6 +96,7 @@ motto: "Building today what my future self will be proud of."
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 ---
@@ -130,12 +138,21 @@ motto: "Building today what my future self will be proud of."
 
 ```javascript
 const adithya = {
-    currentlyLearning: ["Deep Learning", "Cloud Architecture", "Advanced Algorithms"],
-    workingOn: "AI-powered full-stack applications",
-    goals2024: [
+    currentlyLearning: [
+        "Deep Learning & Neural Networks",
+        "Cloud Architecture (AWS & Azure)",
+        "Advanced Data Structures & Algorithms"
+    ],
+    workingOn: [
+        "AI-powered full-stack applications",
+        "Machine Learning model deployment",
+        "Data analytics dashboards"
+    ],
+    goals2025: [
         "Master advanced ML techniques",
         "Build production-ready AI applications",
-        "Contribute to open-source ML projects"
+        "Contribute to open-source ML projects",
+        "Expand cloud computing expertise"
     ],
     funFact: "I debug with console.log and print() 😄"
 };
@@ -143,14 +160,51 @@ const adithya = {
 
 ---
 
-## 🤝 Let's Connect!
+## 🎓 Learning Journey
 
 <div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities!
+```mermaid
+graph LR
+    A[Data Collection] --> B[Data Processing]
+    B --> C[Exploratory Analysis]
+    C --> D[Feature Engineering]
+    D --> E[Model Training]
+    E --> F[Model Evaluation]
+    F --> G[Deployment]
+    G --> H[Monitoring]
+    H --> A
+    
+    style A fill:#8b5cf6
+    style E fill:#8b5cf6
+    style G fill:#8b5cf6
+```
+
+</div>
+
+**Current Focus Areas:**
+- 🤖 Building end-to-end ML pipelines
+- 🌐 Developing scalable web applications
+- 📊 Creating interactive data visualizations
+- ☁️ Deploying models to cloud platforms
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always open to interesting conversations, collaboration opportunities, and learning from fellow developers!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyanagamuneendran)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya1755@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+**Open to:**
+- 💼 Internship opportunities in ML/AI or Full-Stack Development
+- 🤝 Collaborative projects in Data Science
+- 📚 Knowledge sharing and tech discussions
+- 🚀 Open-source contributions
 
 </div>
 
@@ -158,14 +212,24 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   
-### 💭 Quote of the Day
+### 💭 Random Dev Quote
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
+### 📫 How to Reach Me
+
+**Email:** adithya1755@gmail.com  
+**LinkedIn:** [adithyanagamuneendran](https://linkedin.com/in/adithyanagamuneendran)  
+**GitHub:** [@adhi1755](https://github.com/adhi1755)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
 **⭐ "Building today what my future self will be proud of."**
 
-*Thanks for visiting! Feel free to star ⭐ my repositories if you find them interesting!*
+*If you find my projects interesting, feel free to ⭐ star them!*
 
 </div>
