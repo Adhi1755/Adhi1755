@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">CSE (Data Science) | AI & ML Enthusiast | Full-Stack Developer</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620" />
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="Coding GIF"
+    style="max-width: 100%; width: 420px;"
+  />
 </p>
 ---
 
