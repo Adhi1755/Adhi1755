@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">CSE (Data Science) | AI & ML Enthusiast | Full-Stack Developer</h3>
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding GIF"
-    height = "400"
-    width="1000"
-  />
-</p>
-
 ---
 
 ## 🚀 About Me  
