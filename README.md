@@ -109,28 +109,6 @@ QUOTE       : "Building today what my future self will be proud of."
 
 ---
 
-## ◈ MISSION CONTROL — GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhi1755&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhi1755&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=adhi1755&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
-
-</div>
-
----
-
-## ◈ ACTIVITY GRID
-
-<div align="center">
-
-[![Adithya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhi1755&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <div align="center">
 
